@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am fun and happy person
 -->
 ![image](https://github.com/user-attachments/assets/4b9fb2d7-5ac1-463c-b3b8-6df5e1210b35)
+https://vscode.dev/github/Sumi-cpu/Sumi-cpu/blob/main
